@@ -13,7 +13,7 @@ Hope everything is going okie. Wish me luck!
 
 ## [1] NS2 Installation
 
-Download ns-allinone-2.35.tar.gz
+Download ns-allinone-2.35.tar.gz [here](https://sourceforge.net/projects/nsnam/files/allinone/ns-allinone-2.35/ns-allinone-2.35.tar.gz/download)
 
 Unpack files in main folder
 ```bash

@@ -11,9 +11,7 @@ Memory: 8192MB RAM
 
 Hope everything is going okie. Wish me luck!
 
-## June 7th 2020
-
-### [1] NS2 Installation
+## [1] NS2 Installation
 
 Download ns-allinone-2.35.tar.gz
 
@@ -44,7 +42,7 @@ $] gedit /home/hydra/.bashrc
 $] source /home/hydra/.bashrc
 ```
 
-### [2] Introduction to NS2
+## [2] Introduction to NS2
 
 Why use Linux?
 1. Support has been stopped beyond NS-2.27 in windows
@@ -76,7 +74,7 @@ $] nam wireless_mitf.nam
 $] ns simple.tcl
 ```
 
-### [3] Wired Networks Design
+## [3] Wired Networks Design
 Sample Network Design. There's a wired network with 6 nodes as shown below:
 ![Wired Network](https://github.com/Fluxhydra/TA/blob/master/Screenshots/2092307062020%20Wired%20Network.PNG)
 

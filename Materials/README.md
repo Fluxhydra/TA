@@ -1,13 +1,18 @@
 # Learning Summary
-This file was made in order to record my learning activities so that I can traceback whenever I get stuck on a wall along the way. <br>
+This section was made in order to record my learning activities so that I can traceback whenever I get stuck on a wall along the way. <br>
+
+Processor: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz (8 CPUs), ~2.8GHz
+
+Memory: 8192MB RAM
 
 Ubuntu Version: 18.04
 
 NS2 Version: 2.35
 
-Processor: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz (8 CPUs), ~2.8GHz
-
-Memory: 8192MB RAM
+Contents:
+1. NS2 Installation
+2. Introduction to NS2
+3. Wired Network Design
 
 Hope everything is going okie. Wish me luck!
 
@@ -75,7 +80,7 @@ $] nam wireless_mitf.nam
 $] ns simple.tcl
 ```
 
-## [3] Wired Networks Design
+## [3] Wired Network Design
 Sample Network Design. There's a wired network with 6 nodes as shown below:
 ![Wired Network](https://github.com/Fluxhydra/TA/blob/master/Screenshots/2092307062020%20Wired%20Network.PNG)
 

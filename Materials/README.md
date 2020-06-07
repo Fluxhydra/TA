@@ -77,6 +77,8 @@ $] ns simple.tcl
 ```
 
 ### [3] Wired Networks Design
+Sample Network Design. There's a wired network with 6 nodes as shown below:
+![Wired Network](https://github.com/Fluxhydra/TA/blob/master/Screenshots/2092307062020%20Wired%20Network.PNG)
 
 Nodes: 0, 1, 2, 3, 4, 5
 

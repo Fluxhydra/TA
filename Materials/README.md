@@ -1,5 +1,5 @@
 # Learning Summary
-This section was made in order to record my learning activities so that I can traceback whenever I get stuck on a wall along the way. <br>
+This section was made in order to record my learning activities as the fundamental of my final project so that I can traceback whenever I get stuck on a wall along the way. <br>
 
 Processor: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz (8 CPUs), ~2.8GHz
 

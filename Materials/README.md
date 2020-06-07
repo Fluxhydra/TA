@@ -41,6 +41,7 @@ Fix environment PATH and LD_LIBRARY_PATH by copying the values given by terminal
 $] gedit /home/hydra/.bashrc
 $] source /home/hydra/.bashrc
 ```
+![Install NS2](https://github.com/Fluxhydra/TA/blob/master/Screenshots/1051807062020%20NS2%20Installation.PNG)
 
 ## [2] Introduction to NS2
 
